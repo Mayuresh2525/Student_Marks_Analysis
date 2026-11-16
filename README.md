@@ -36,7 +36,7 @@ Student-Marks-Analysis/
 Clone the repository:
 
 ```bash
-git clone Student_Marks_Analysis
+git clone https://github.com/Mayuresh2525/Student_Marks_Analysis.git
 ```
 
 Install dependencies:
